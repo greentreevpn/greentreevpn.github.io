@@ -7,19 +7,9 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>GreenAppleVPN</copyright>
-    <lastBuildDate>Sun, 17 Mar 2019 10:49:31 +0800</lastBuildDate>
     
 	<atom:link href="https://greenapplevpn.net/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://greenapplevpn.net/about/</link>
-      <pubDate>Sun, 17 Mar 2019 10:49:31 +0800</pubDate>
-      
-      <guid>https://greenapplevpn.net/about/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
