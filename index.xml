@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GreenApple VPN</title>
-    <link>https://greenapplevpn.net/</link>
-    <description>Recent content on GreenApple VPN</description>
+    <title>GreenTreeVPN</title>
+    <link>https://greentreevpn.com/</link>
+    <description>Recent content on GreenTreeVPN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>GreenAppleVPN</copyright>
+    <copyright>GreenTreeVPN</copyright>
     
-	<atom:link href="https://greenapplevpn.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://greentreevpn.com/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
